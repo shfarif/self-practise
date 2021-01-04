@@ -101,6 +101,11 @@ img {
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
+    position: relative;
+}
+
+.middle-area {
+    margin-left: 40%;
 }
 
 footer {
